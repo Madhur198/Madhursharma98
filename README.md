@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhur198&label=Profile%20views&color=0e75b6&style=flat" alt="madhur198" /> </p>
 
-- 🔭 I’m currently working on **Object detection**
+- 🔭 I’m currently working on **Predictive learning on Cricket data I'm curious to find insights by statistical modeling and predict the upcoming fact**
 
-- 🌱 I’m currently learning **NLP and Deep learning framework**
+- 🌱 I’m currently learning **Ensemple power of machine learning**
 
-- 👯 I’m looking to collaborate on **Stock market prediction algo**
+- 👯 I’m looking to collaborate on **Image segmentation and Recognization Project**
 
-- 🤝 I’m looking for help with **AI connect in small and medium business**
+- 🤝 I’m looking for help with **Predictive learning and deep learning connect in small and medium business**
 
 - 📝 I regularly write articles on [https://medium.com/@madhursharma75090](https://medium.com/@madhursharma75090)
 
@@ -17,11 +17,11 @@
 
 - 📫 How to reach me **madhursharma75090@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a0n3qv-VIHVyyBFP6yl2mSwRBAJKptP7/view?usp=share_link](https://drive.google.com/file/d/1a0n3qv-VIHVyyBFP6yl2mSwRBAJKptP7/view?usp=share_link)
+- 📄 Visit my data science portfoloio [[https://drive.google.com/file/d/1a0n3qv-VIHVyyBFP6yl2mSwRBAJKptP7/view?usp=share_link](https://sites.google.com/d/1HDWwQKBoMO69dJcefYG4eBJCXJz5XsWe/p/18CLeEQO7tZ0rLi_ChI-vLucRs4eoM_oS/edit)]([https://drive.google.com/file/d/1a0n3qv-VIHVyyBFP6yl2mSwRBAJKptP7/view?usp=share_link](https://sites.google.com/d/1HDWwQKBoMO69dJcefYG4eBJCXJz5XsWe/p/18CLeEQO7tZ0rLi_ChI-vLucRs4eoM_oS/edit))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/madhur_sharma98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madhur_sharma98" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/madhur-sharma-8815171b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhur-sharma-8815171b0/" height="30" width="40" /></a>
 <a href="https://kaggle.com/madhur sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="madhur sharma" height="30" width="40" /></a>
 <a href="https://fb.com/madhur sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madhur sharma" height="30" width="40" /></a>
