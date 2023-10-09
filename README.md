@@ -1,4 +1,4 @@
-![Header Image](https://ibb.co/j4w9qjB)
+
 
 
 <h1 align="center">Hi 👋, I'm Madhur Sharma</h1>
